@@ -1,0 +1,348 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+}
+#container{
+    width: 100%;
+    position: relative;
+    height: 100vh;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(3, 3, 20);
+    height: 60px;
+   
+    
+}
+.list-items{
+    display: inline;
+    align-items: center;
+    text-decoration: none;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+.links{
+    color: white;
+    text-decoration: none;
+}
+#prime{
+    font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  margin-right: 20px;
+}
+.font{
+    font-family: "New Amsterdam", sans-serif;
+    color: white;
+    text-decoration: none;
+}
+#supscription{
+    font-family: "Caveat", cursive;
+
+}
+#side{
+    margin-left: 500px;
+    
+}
+#dwnld{
+    text-decoration: none;
+    color: aliceblue;
+    background-color: rgb(24, 112, 226);
+    font-family: "Figtree", sans-serif;
+    font-weight: 700;
+    padding: 16px;
+    border-radius: 10px;
+    
+}
+#en{
+    font-family: "Figtree", sans-serif;
+    font-weight: 500;
+}
+#prime{
+    font-family: "Figtree", sans-serif;
+    font-weight: 700;
+}
+.content-one{
+    background-color: black;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#h-one{
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-size: 40px;
+    font-weight: 300;
+    
+}
+#h-two{
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 500;
+}
+#sign{
+    text-decoration: none;
+    color: aliceblue;
+    background-color: rgb(6, 99, 174);
+    font-family: "Figtree", sans-serif;
+    font-weight: 700;
+    padding: 16px;
+
+}
+.headings{
+    margin-left: 30px;
+    
+    
+    
+}
+#kalki{
+    height: 450px;
+}
+.content-image{
+    margin-left: 50px;
+}
+.content-two{
+    background-color: black;
+    height: 700px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+.headings-two{
+    margin-left:40px; 
+    
+    width: 562px;
+    height: 350px;
+}
+
+#day-one{
+    height: 450px;
+    width: 100%;
+    
+    
+}
+.content-img-two{
+    margin-left: 80px;
+    background-color: aqua;
+    width: 900px;
+    height: 450px;
+    
+
+}
+#h-three{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    font-size: 900;
+}
+p{
+    font-family: "Open Sans", sans-serif;
+    line-height: 2;
+    font-size: 20px;
+}
+.heading-three{
+    background-color: rgb(245, 251, 251);
+    margin-left: 50px;
+    width: 600px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+    height: 600px;
+    
+}
+.content-three{
+    margin-bottom: 20px;
+    display: flex;
+    
+}
+.heading-four{
+    margin-left: 30px;
+}
+.image-content{
+    display: grid;
+    background-color: rgb(240, 240, 246);
+    grid-template-columns: auto auto auto;
+    margin-left: 260px;
+    
+    
+}
+.lp{
+    width: 200px;
+    height: 150px;
+    background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(193, 191, 191, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+    
+    
+}
+#lp-image{
+    width: 100%;
+    height: 100%;
+    
+}
+
+#dc-image{
+    width: 100%;
+    height: 100%;
+}
+
+#bbc-image{
+    width: 100%;
+    height: 100%;
+}
+
+    
+
+
+#manorama-image{
+    width: 100%;
+    height: 100%;
+}
+  
+#ho-image{
+    width: 100%;
+    height: 100%;
+}
+#cha-image{
+    width: 100%;
+    height: 100%;
+}
+#vrott-image{
+    width: 100%;
+    height: 100%;
+}
+#snow-image{
+    width: 100%;
+    height: 100%;
+}
+#mgm-image{
+    width: 100%;
+    height: 100%;
+}
+#get-started{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    font-size: 900; 
+    color: white; 
+}
+#plan{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    font-size: 900;
+    color: white;
+}
+#step-one{
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+    font-size: 900;
+    color: white;
+}
+#step-two{
+    font-family: "Open Sans", sans-serif;
+    font-size: 900;
+    font-weight: normal;
+    color: white;
+}
+.subscription{
+    display: flex;
+    background-color: black;
+    height: 700px; 
+    
+    
+    align-items: center;
+    justify-content: center;  
+}
+#jai-ganesh{
+    width: 800px;
+
+}
+.sub-image{
+    margin-left: 20px;
+}
+.sub-one{
+    position: static;
+    height: 450px;
+}
+.section-head{
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    margin-top: 15px;
+    color: rgb(60, 62, 62);
+}
+.icon-collection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+.icon{
+    height: 80px;
+    width: 220px;
+    /*border; 1px solid;*/
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 5px;
+    
+
+}
+.hi{
+    height: 60px;
+    width: 200px;
+}
+.main-head{
+    font-size: 900;
+}
+footer{
+    background-color:rgb(32, 32, 46);
+    
+}
+#copyright{
+    font-weight: bold;
+    text-align: center;
+    font-size: 15px;
+    font-family: "Open Sans", sans-serif;
+    color: rgb(90, 70, 50);
+}
+.logo{
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+    
+}
+.last-item{
+    display: inline;
+    align-items: center;
+    text-decoration: none;
+    margin-right: 25px;
+    font-family: "Open Sans", sans-serif;
+    
+    
+}
+#terms{
+    margin-left: 580px;
+}
+.link-two{
+    text-decoration: none;
+    color: rgb(46, 106, 186);
+    font-family: "Open Sans", sans-serif;
+    
+}
+.font:hover{
+    color: rgb(186, 189, 93);
+    text-decoration: underline;
+    }
+    .links:hover{
+        color: rgb(222, 127, 92);
+        text-decoration: underline;
+        }
+    .link-two:hover{
+        text-decoration: none;
+        color: rgb(70, 165, 219);
+    }
+   
